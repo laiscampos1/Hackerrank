@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #ddd;
+}
+
+#medias, #aprovados-reprovados {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#medias strong, #aprovados-reprovados strong {
+    font-weight: bold;
+}
